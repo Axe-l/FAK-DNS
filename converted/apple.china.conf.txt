@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cds.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cdsassets.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/certs.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl1.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl2-cn.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
