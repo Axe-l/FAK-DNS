@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/c.admob.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/c.android.clients.google.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/c.pki.goog/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cache-management-prod.google.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cache.pack.google.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/checkin.gstatic.com/]tls://dot.pub:853 tls://223.5.5.5:853 
