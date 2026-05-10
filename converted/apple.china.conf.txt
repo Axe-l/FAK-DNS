@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl1.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl2-cn.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl2.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl3-cdn.origin-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/cl3.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gs-loc.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp10-ssl-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/gsp11-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp12-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp13-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/guzzoni.smoot.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/iadsdk.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/icloud-cdn.icloud.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/icloud.cdn-apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/init-kt.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/init-p01md-lb.push-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/ml.cdn-apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/music.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/ocsp-lb.apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/ocsp.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/ocsp2-lb.apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/ocsp2.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/oscdn.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/oscdn.origin-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/osxapps.itunes.g.aaplimg.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/pancake.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/pancake.cdn-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/pba0.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/probe.siri.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/prod-support.apple-support.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/publicassets.cdn-apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
-[/reserve-prime.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/s.mzstatic.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/seed-sequoia.siri.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/seed-swallow.siri.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
