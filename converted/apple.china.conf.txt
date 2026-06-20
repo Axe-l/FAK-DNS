@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/itunes.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/itunesconnect.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/mensura.cdn-apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/mesu-cdn.apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/mesu-china.apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/mesu.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
