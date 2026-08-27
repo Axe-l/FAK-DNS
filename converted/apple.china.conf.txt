@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp5-cn.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gsp85-cn-ssl.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
+[/gspe11-2-cn-ssl.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gspe19-2-cn-ssl.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
 [/gspe19-cn-ssl.ls.apple.com/]tls://dot.pub:853 tls://223.5.5.5:853 
